@@ -80,6 +80,8 @@ Client (/client/.env)
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 VITE_BACKEND_URL=http://localhost:5000
 
+---
+
 4️⃣ Run the Application
 Backend:
 cd server
@@ -88,3 +90,17 @@ npm run dev
 Frontend:
 cd client
 npm run dev
+
+
+---
+🌍 Deployment
+
+Frontend: Deploy React app on Vercel / Netlify
+
+Backend: Deploy Node.js app on Render / Railway / Heroku
+
+Database: Use MongoDB Atlas
+
+Media Storage: Setup ImageKit
+
+Auth: Configure Clerk domains in dashboard
