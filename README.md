@@ -49,7 +49,6 @@ A fully functional **social media web application** built with the **MERN Stack 
 │   ├── controllers/     # Business logic
 │   └── utils/           # Helpers & middleware
 └── README.md
-
 ⚡ Getting Started
 1️⃣ Clone the Repository
 git clone https://github.com/anisha0404/social-media-mern.git
@@ -80,8 +79,6 @@ Client (/client/.env)
 VITE_CLERK_PUBLISHABLE_KEY=your_clerk_publishable_key
 VITE_BACKEND_URL=http://localhost:5000
 
----
-
 4️⃣ Run the Application
 Backend:
 cd server
@@ -91,8 +88,6 @@ Frontend:
 cd client
 npm run dev
 
-
----
 🌍 Deployment
 
 Frontend: Deploy React app on Vercel / Netlify
